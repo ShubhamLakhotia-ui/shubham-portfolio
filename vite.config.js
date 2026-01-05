@@ -9,8 +9,9 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+
   preview: {
     host: true,
-    allowedHosts: "all",
+    allowedHosts: ["portfolio-nvt9.onrender.com", ".onrender.com"],
   },
 });
