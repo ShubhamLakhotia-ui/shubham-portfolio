@@ -16,9 +16,11 @@ const Hero = () => {
           <span className={styles.badge}>C#/.NET</span>
           <span className={styles.badge}>TypeScript</span>
           <span className={styles.badge}>React / Next.js</span>
+          <span className={styles.badge}>Angular</span>
           <span className={styles.badge}>AWS & Azure</span>
           <span className={styles.badge}>Docker & Kubernetes</span>
           <span className={styles.badge}>CI / CD</span>
+          <span className={styles.badge}>Node.js</span>
         </div>
         {/* <div className={styles.buttons}>
           <a
