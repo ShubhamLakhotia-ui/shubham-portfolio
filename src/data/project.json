@@ -10,7 +10,7 @@
     "title": "Cloud-Optimized Content Delivery Platform",
     "imageSrc": "projects/cloud.png",
     "description": "Highly available Node.js microservices on AWS with Terraform/Packer-based IaC and CI/CD automation for scalable, fault-tolerant deployments.",
-    "skills": ["Node.js", "AWS", "Terraform", "Packer", "GitHub Actions", "Microservices"],
+    "skills": ["Node.js", "AWS", "Terraform", "Packer", "GitHub Actions", "Microservices","CI / CD"],
     "source": "https://github.com/ShubhamLakhotia-ui"
   },
   {
@@ -24,7 +24,7 @@
     "title": "ThingsToDo",
     "imageSrc": "projects/project1.png",
     "description": "Event management app built on the MERN stack, focused on responsive UI and clean CRUD flows.",
-    "skills": ["MongoDB", "Express", "React", "Node.js"],
+    "skills": ["MongoDB", "Express", "React", "Node.js", "JWT", "AWS"],
     "source": "https://github.com/ShubhamLakhotia-ui/ThingsTODO"
   },
   {
