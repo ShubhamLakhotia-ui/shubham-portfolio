@@ -1,8 +1,22 @@
 import { getImageUrl } from "../../utlis";
 import styles from "./About.module.css";
+import aboutBg from "../../../assets/about/background_portfolio.png";
+
 const About = () => {
   return (
-    <section className={styles.container} id="about">
+    <section
+      className={styles.container}
+      id="about"
+      style={{
+        backgroundImage: `
+      linear-gradient(rgba(12, 12, 12, 0.35), rgba(12, 12, 12, 0.35)),
+      url(${aboutBg})
+    `,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
+    >
       <h2 className={styles.title}>About</h2>
 
       <div className={styles.content}>
