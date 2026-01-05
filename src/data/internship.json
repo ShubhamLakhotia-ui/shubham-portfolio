@@ -1,0 +1,79 @@
+[
+  {
+    "role": "Application Developer Intern",
+    "organisation": "Annaly Capital Management",
+    "location": "New York, USA",
+    "startDate": "Jun 2025",
+    "endDate": "Dec 2025",
+    "logo": "history/annaly.png",
+    "highlights": [
+      "Built a C#/.NET real-time trading platform for MBS, U.S. Treasuries, and TBAs, processing 1,000+ market updates/sec.",
+      "Secured microservices on Azure using Docker-based deployments and CI/CD (Bamboo), targeting zero critical vulnerabilities.",
+      "Powered both WPF (MVVM) desktop and React Native mobile clients via Server-Sent Events (SSE), improving trader reaction time by ~30%.",
+      "Modernized hybrid data workflows by migrating on-prem SQL Server to Azure SQL and adding Redis caching + RabbitMQ messaging for 99.9% uptime.",
+      "Stabilized Morgan Stanley and J.P. Morgan pricing workflows by rebuilding legacy Python APIs in C# and automating daily bond price ingestion (Vcron)."
+    ],
+    "stack": [
+      "C#",
+      ".NET",
+      "Azure",
+      "Docker",
+      "SSE",
+      "WPF (MVVM)",
+      "React Native",
+      "Azure SQL",
+      "Redis",
+      "RabbitMQ",
+      "Bamboo"
+    ]
+  },
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Jio Platforms Limited (Reliance Industries)",
+    "location": "Mumbai, India",
+    "startDate": "Aug 2022",
+    "endDate": "Dec 2023",
+    "logo": "history/jio.png",
+    "highlights": [
+      "Led development of scalable enterprise applications used across multiple internal teams.",
+      "Designed microservices and containerized deployments on AWS to improve reliability and system scalability.",
+      "Built an AI-powered monitoring system using computer vision to enhance automated decision-making."
+    ],
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "CI / CD",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Computer Vision"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Jio Platforms Limited (Reliance Industries)",
+    "location": "Mumbai, India",
+    "startDate": "Jun 2021",
+    "endDate": "Jul 2022",
+    "logo": "history/jio.png",
+    "highlights": [
+      "Built and shipped core features for large-scale internal web platforms serving 100,000+ employees.",
+      "Developed reusable frontend components and backend APIs deployed on AWS, improving development velocity and code quality.",
+      "Worked closely with product and QA teams in an agile environment to deliver stable, user-centric features."
+    ],
+    "stack": [
+      "Java",
+      "Node.js",
+      "Angular",
+      "TypeScript",
+      "AWS",
+      "Azure",
+      "CI / CD",
+      "REST APIs",
+      "SQL"
+    ]
+  }
+]

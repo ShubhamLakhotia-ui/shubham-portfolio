@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="1" stop-color="#060b1a"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="28" fill="url(#bg)"/>
+  <circle cx="220" cy="180" r="140" fill="url(#a)" opacity="0.25"/>
+  <circle cx="980" cy="520" r="200" fill="url(#a)" opacity="0.18"/>
+
+  <g fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="3">
+    <rect x="160" y="210" width="260" height="160" rx="18"/>
+    <rect x="470" y="170" width="260" height="160" rx="18"/>
+    <rect x="780" y="230" width="260" height="160" rx="18"/>
+    <path d="M420 290 H470"/>
+    <path d="M730 250 H780"/>
+    <path d="M600 330 C600 420, 600 420, 600 500"/>
+    <rect x="470" y="500" width="260" height="160" rx="18"/>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui" fill="white">
+    <text x="160" y="130" font-size="44" font-weight="800">Content Delivery Platform</text>
+    <text x="160" y="175" font-size="20" opacity="0.82">AWS • Terraform • Packer • CI/CD • Microservices</text>
+  </g>
+</svg>

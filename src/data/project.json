@@ -1,0 +1,44 @@
+[
+  {
+    "title": "GenAIStudio",
+    "imageSrc": "projects/genai.svg",
+    "description": "Full-stack AI-powered SaaS integrating Google Gemini across 20+ use cases with reusable UI components, backend APIs, and subscription billing.",
+    "skills": ["React", "Next.js", "Node.js", "Express", "MySQL", "JavaScript"],
+    "source": "https://github.com/ShubhamLakhotia-ui"
+  },
+  {
+    "title": "Cloud-Optimized Content Delivery Platform",
+    "imageSrc": "projects/cloud.png",
+    "description": "Highly available Node.js microservices on AWS with Terraform/Packer-based IaC and CI/CD automation for scalable, fault-tolerant deployments.",
+    "skills": ["Node.js", "AWS", "Terraform", "Packer", "GitHub Actions", "Microservices"],
+    "source": "https://github.com/ShubhamLakhotia-ui"
+  },
+  {
+    "title": "Cryptowatch",
+    "imageSrc": "projects/crypto.png",
+    "description": "Real-time crypto tracker for 100+ assets using a modern web stack, secure authentication, and REST APIs.",
+    "skills": ["React", "Next.js", "Golang", "Firebase", "PostgreSQL", "AWS"],
+    "source": "https://github.com/ShubhamLakhotia-ui"
+  },
+  {
+    "title": "ThingsToDo",
+    "imageSrc": "projects/project1.png",
+    "description": "Event management app built on the MERN stack, focused on responsive UI and clean CRUD flows.",
+    "skills": ["MongoDB", "Express", "React", "Node.js"],
+    "source": "https://github.com/ShubhamLakhotia-ui/ThingsTODO"
+  },
+  {
+    "title": "Shopping Website",
+    "imageSrc": "projects/project.png",
+    "description": "E-commerce frontend using React and Redux Toolkit with modular components and state management.",
+    "skills": ["React", "Redux Toolkit", "HTML", "CSS", "Node.js"],
+    "source": "https://github.com/ShubhamLakhotia-ui/Online-Shopping-Website"
+  },
+  {
+    "title": "Blogging Site",
+    "imageSrc": "projects/project2.png",
+    "description": "Blog platform showcasing auth fundamentals (JWT) with a simple, clean UI.",
+    "skills": ["MongoDB", "Express", "Node.js", "JWT"],
+    "source": "https://github.com/ShubhamLakhotia-ui/Blogging-Site"
+  }
+]

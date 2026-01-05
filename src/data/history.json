@@ -1,0 +1,49 @@
+[
+  {
+    "role": "Application Developer Intern",
+    "organisation": "Annaly Capital Management",
+    "startDate": "Jun 2025",
+    "endDate": "Dec 2025",
+    "experiences": [
+      "Built a real-time C#/.NET trading platform, processing 1,000+ market updates/sec.",
+      "Delivered live pricing via SSE to both WPF (MVVM) desktop and React Native mobile apps.",
+      "Modernized data workflows with Azure SQL, Redis caching, and RabbitMQ messaging for 99.9% uptime."
+    ],
+    "imageSrc": "history/annaly.svg"
+  },
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Jio Platforms Limited, Reliance Industries",
+    "startDate": "Aug 2022",
+    "endDate": "Dec 2023",
+    "experiences": [
+      "Developed new features for an enterprise employee portal and improved UX across devices.",
+      "Reduced load times by ~40% through frontend performance tuning and API optimizations.",
+      "Led a team of eight to deliver a micro-frontend architecture for better scalability and release velocity."
+    ],
+    "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Jio Platforms Limited, Reliance Industries",
+    "startDate": "Jun 2021",
+    "endDate": "Jul 2022",
+    "experiences": [
+      "Built reusable UI components and dynamic reactive forms using Angular.",
+      "Implemented unit testing practices to improve release confidence and reduce regressions.",
+      "Troubleshot production issues and shipped fixes with strong ownership and fast iteration."
+    ],
+    "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "Industrial Training",
+    "organisation": "BSNL",
+    "startDate": "May 2018",
+    "endDate": "Jul 2018",
+    "experiences": [
+      "Contributed to a UI component library and improved reusability across pages.",
+      "Helped implement responsive UI components and basic frontend best practices."
+    ],
+    "imageSrc": "history/bsnl.png"
+  }
+]

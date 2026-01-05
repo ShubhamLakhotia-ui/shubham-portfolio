@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="1" stop-color="#0b2447"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="34" fill="url(#bg)"/>
+  <circle cx="260" cy="220" r="150" fill="#7c3aed" opacity="0.22"/>
+  <circle cx="930" cy="160" r="190" fill="#06b6d4" opacity="0.18"/>
+  <circle cx="820" cy="540" r="220" fill="#22c55e" opacity="0.14"/>
+  <rect x="120" y="140" width="960" height="420" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+  <g transform="translate(170 205)">
+    <rect x="0" y="0" width="90" height="90" rx="20" fill="url(#accent)"/>
+    <path d="M22 60c18-26 28-38 46-..." fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="290" y="262" font-family="Arial, Helvetica, sans-serif" font-size="38" fill="#fff" font-weight="700">GenAIStudio</text>
+  <text x="290" y="308" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#cbd5e1">AI-powered SaaS • Gemini integrations • Subscriptions</text>
+  <g transform="translate(290 360)" fill="rgba(255,255,255,0.12)">
+    <rect x="0" y="0" width="190" height="44" rx="999"/>
+    <rect x="210" y="0" width="150" height="44" rx="999"/>
+    <rect x="380" y="0" width="160" height="44" rx="999"/>
+  </g>
+</svg>

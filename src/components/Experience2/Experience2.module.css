@@ -1,0 +1,112 @@
+@import "../../vars.css";
+
+.container {
+  padding: 85px 10%;
+  position: relative;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: var(--shadow-soft);
+  backdrop-filter: blur(10px);
+}
+
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.logoWrap {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+}
+
+.logo {
+  width: 42px;
+  height: 42px;
+}
+
+.meta {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.role {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.org {
+  font-size: 15px;
+  opacity: 0.9;
+}
+
+.dates {
+  font-size: 13px;
+  opacity: 0.75;
+}
+
+.highlights {
+  margin-top: 10px;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.highlight {
+  line-height: 1.55;
+  opacity: 0.95;
+}
+
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.tag {
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  font-size: 13px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding: 65px 6%;
+  }
+  .title {
+    font-size: 28px;
+  }
+  .header {
+    align-items: flex-start;
+  }
+}

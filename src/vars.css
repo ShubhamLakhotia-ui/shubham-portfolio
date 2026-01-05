@@ -1,0 +1,23 @@
+:root {
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  /* Base background (fallback) */
+  --color-bg: #060b1a;
+
+  /* Accent palette */
+  --color-accent-1: #7c3aed; /* violet */
+  --color-accent-2: #22c55e; /* green */
+  --color-accent-3: #06b6d4; /* cyan */
+
+  /* Surfaces */
+  --glass-bg: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.14);
+  --shadow-soft: 0 12px 40px rgba(0, 0, 0, 0.35);
+
+  /* --color-bg: #04152d; */
+  /* Fonts*/
+
+  --font-robot: "Roboto";
+}
